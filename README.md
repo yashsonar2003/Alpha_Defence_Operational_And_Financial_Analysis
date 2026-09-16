@@ -106,7 +106,9 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 └── README.md    
 ```
 
-## Dirct File View:-
+---
+
+## Project Deliverables & Documentation:-
 
 1. [**Processed Data (CSV)**](1_Processed_Data/Alpha_Defence_Data.csv)
 2. [**Business Objectives (PDF)**](2_Business_Objective/Business_Objectives.pdf)
