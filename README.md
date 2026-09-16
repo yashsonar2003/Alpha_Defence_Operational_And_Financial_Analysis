@@ -102,33 +102,10 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 │   └── Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pptx
 │
 └── README.md    
-
-
-
-
-├── README.md                                   # Project documentation and github overview
-├── data/
-│   ├── raw_alpha_defence_contracts.csv          # Original unrefined dataset sample
-│   └── processed_alpha_defence_contracts.csv    # Processed and transformed dataset (1,001 rows)
-│
-├── tableau/
-│   └── Alpha_Defence_Executive_Dashboard.twbx   # Packaged Tableau Workbook (3-Page Architecture)
-│
-├── screenshots/
-│   ├── 1_Executive_Overview.jpg                 # Screenshot of Page 1 Dashboard
-│   ├── 2_Delivery_&_Supply_Chain_Operations.jpg # Screenshot of Page 2 Dashboard
-│   └── 3_QC_&_Profitability_Risk_Architecture.jpg # Screenshot of Page 3 Dashboard
-│
-└── docs/
-    └── Alpha_Defence_Executive_Report.pdf       # Formal stakeholder business report
-
 ```
 ---
 
 ## Author
+**Yash R. Sonar** | Aspiring Data Analyst
 
-**Yash R. Sonar**  
-*Data Analyst & Tableau Visualizer*  
-* **LinkedIn:** [Insert LinkedIn Profile Link]
-* **GitHub:** [Insert GitHub Profile Link]
-* **Tableau Public:** [Insert Tableau Public Profile Link]
+---
