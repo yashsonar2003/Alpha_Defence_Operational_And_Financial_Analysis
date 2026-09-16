@@ -109,3 +109,5 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 **Yash R. Sonar** | Aspiring Data Analyst
 
 ---
+
+* 📊 **Executive Business Report:** [View Full Business Report (PDF)](4_Business_Report/Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf)
