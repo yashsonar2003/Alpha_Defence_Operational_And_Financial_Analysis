@@ -3,6 +3,7 @@
 ---
 
 ## Executive Overview:-
+
 **Alpha Defence Pvt Ltd** is a premier defense enterprise manufacturing and delivering specialized hardware, digital systems, and strategic platforms across global markets—including Airborne, Digital Command, Ground Tactical, and Maritime defense applications. 
 
 This repository contains an end-to-end operational, logistics, and financial analysis powered by an interactive **3-Page Tableau Executive Dashboard**. The project processes **1,000 historical defense Contracts** representing **$19.44 Billion in Total Contract Value** and **$6.36 Billion in Gross Margin** (32.70% overall gross margin). The analysis evaluates key business performance metrics, cross-border fulfillment lead times, security clearance compliance bottlenecks, quality control benchmarks, and multi-year warranty risk exposures.
@@ -70,6 +71,7 @@ The underlying dataset contains comprehensive operational, financial, and logist
 ---
 
 ## Dashboard Preview:-
+
 ![1_Dashboard](3_Dashboard/Dashboard_Screenshots/1_Executive_Overview.png)
 ![2_Dashboard](3_Dashboard/Dashboard_Screenshots/2_Delivery_&_Supply_Chain_Operations.png)
 ![3_Dashboard](3_Dashboard/Dashboard_Screenshots/3_QC_&_Profitability_Risk_Architecture.png)
@@ -95,7 +97,7 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 │       └── 3_QC_&_Profitability_Risk_Architecture.png
 │
 ├── 4_Business_Report/
-│   └── Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf [View Full Business Report (PDF)(4_Business_Report/Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf)
+│   └── Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf
 │
 ├── 5_Presentation/
 │   ├── Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pdf
@@ -103,9 +105,19 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 │
 └── README.md    
 ```
+
+## Dirct File View:-
+
+- [**Business Objectives (PDF)**](2_Business_Objective/Business_Objectives.pdf)
+- [**Dashboard (Folder)**](3_Dashboard)
+- [**Alpha Defence Operational And Financial Analysis Report (PDF)**](4_Business_Report/Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf)
+- [**Presentation (Folder)**](5_Presentation)
+  • [**Alpha Defence Operational And Financial Analysis Presentation (PDF)**](5_Presentation/Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pdf)
+  • [**Alpha Defence Operational And Financial Analysis Presentation (PPTX)**](5_Presentation/Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pptx)
+
 ---
 
-## Author
+## Author:-
 **Yash R. Sonar** | Aspiring Data Analyst
 
 ---
