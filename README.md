@@ -95,7 +95,7 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 │       └── 3_QC_&_Profitability_Risk_Architecture.png
 │
 ├── 4_Business_Report/
-│   └── Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf
+│   └── Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf [View Full Business Report (PDF)(4_Business_Report/Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf)
 │
 ├── 5_Presentation/
 │   ├── Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pdf
@@ -109,5 +109,3 @@ Alpha_Defence_Operational_And_Financial_Analysis/
 **Yash R. Sonar** | Aspiring Data Analyst
 
 ---
-
-* 📊 **Executive Business Report:** [View Full Business Report (PDF)](4_Business_Report/Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf)
