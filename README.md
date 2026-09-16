@@ -66,34 +66,46 @@ The underlying dataset contains comprehensive operational, financial, and logist
 * **Tableau Desktop**
 * **Google Docs**
 * **Google Slides**
+
 ---
 
 ## Dashboard Preview:-
-![1_Dashboard](3_Files_&_Dashboard/1_Dashboard_Screenshots/1_Profitability_&_Discount_Analytics.png)
-![2_Dashboard](3_Files_&_Dashboard/1_Dashboard_Screenshots/2_SKU_&_Category_Performance_Analysis.png)
-![3_Dashboard](3_Files_&_Dashboard/1_Dashboard_Screenshots/3_Fulfillment_&_Logistics.png)
-![4_Dashboard](3_Files_&_Dashboard/1_Dashboard_Screenshots/4_Segmented_Customer_Experience.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![1_Dashboard](3_Dashboard/Dashboard_Screenshots/1_Executive_Overview.png)
+![2_Dashboard](3_Dashboard/Dashboard_Screenshots/2_Delivery_&_Supply_Chain_Operations.png)
+![3_Dashboard](3_Dashboard/Dashboard_Screenshots/3_QC_&_Profitability_Risk_Architecture.png)
 
 ---
 
-## Project Structure
-
-```text
-alpha-defence-tableau-analysis/
+## Project Structure:-
+```
+Alpha_Defence_Operational_And_Financial_Analysis/
 │
+├── 1_Processed_Data/
+│   └── Alpha_Defence_Data.csv 
+│
+├── 2_Business_Objective/
+│   └── Business_Objectives.pdf
+│
+├── 3_Dashboard/
+│   ├── Alpha_Defence_Operational_And_Financial_Analysis.twb
+│   ├── Alpha_Defence_Operational_And_Financial_Analysis.twbx
+│   └── Dashboard_Screenshots/
+│       ├── 1_Executive_Overview.png
+│       ├── 2_Delivery_&_Supply_Chain_Operations.png
+│       └── 3_QC_&_Profitability_Risk_Architecture.png
+│
+├── 4_Business_Report/
+│   └── Alpha_Defence_Operational_And_Financial_Analysis_Report.pdf
+│
+├── 5_Presentation/
+│   ├── Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pdf
+│   └── Alpha_Defence_Operational_And_Financial_Analysis_Presentation.pptx
+│
+│
+
+
+
+
 ├── README.md                                   # Project documentation and github overview
 ├── data/
 │   ├── raw_alpha_defence_contracts.csv          # Original unrefined dataset sample
@@ -109,8 +121,8 @@ alpha-defence-tableau-analysis/
 │
 └── docs/
     └── Alpha_Defence_Executive_Report.pdf       # Formal stakeholder business report
-```
 
+```
 ---
 
 ## Author
